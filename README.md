@@ -81,5 +81,3 @@ Power_BI-Dashboard/
 | 💼 Business Users | Understanding sales performance analysis |
 | 🎓 Students | Portfolio project for data visualization |
 | 🎤 Interview Prep | Demonstrating BI and analytics skills |
-
----
